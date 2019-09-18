@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20cm" height="20cm">
+	<!--circle cx="1cm" cy="1cm" r="1cm" r="1cm" /-->
+	<g>
+<mask id="maskedtext">
+  <circle cx="50%" cy="50%" r="50" fill="white"/>
+  <text x="50%" y="55%" text-anchor="middle" font-size="48">ABC</text>
+</mask>
+<!--		<clipPath id="lowClip">
+			<circle id="lowStripe" cx="2.0625cm" cy="2.75cm" r="2.5cm"/>
+		</clipPath>
+		<circle id="lowStripe" cx="2.0625cm" cy="2.75cm" r="2.675cm" fill="red" clip-path="url(#lowClip)"/>
+-->
+	</g>
+</svg>
