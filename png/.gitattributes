@@ -5,3 +5,4 @@ logo.fb filter=lfs diff=lfs merge=lfs -text
 logo.png filter=lfs diff=lfs merge=lfs -text
 vbuf-128.png filter=lfs diff=lfs merge=lfs -text
 bg.png filter=lfs diff=lfs merge=lfs -text
+logo-64.png filter=lfs diff=lfs merge=lfs -text
