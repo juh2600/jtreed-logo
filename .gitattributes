@@ -1,0 +1,5 @@
+ico/logo-128.ico filter=lfs diff=lfs merge=lfs -text
+ico/logo-256.ico filter=lfs diff=lfs merge=lfs -text
+ico/logo-16.ico filter=lfs diff=lfs merge=lfs -text
+ico/logo-32.ico filter=lfs diff=lfs merge=lfs -text
+ico/logo-64.ico filter=lfs diff=lfs merge=lfs -text
